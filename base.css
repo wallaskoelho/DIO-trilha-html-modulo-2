@@ -36,4 +36,9 @@ body {
 .footer {
     background-color: rgb(99, 56, 240);
     min-height: 150px;
+    color: white;
+}
+
+.footer ul li a{
+    color: white;
 }
